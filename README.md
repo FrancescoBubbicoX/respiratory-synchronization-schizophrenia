@@ -4,6 +4,9 @@
 
 This repository contains the MATLAB and R code used to preprocess physiological recordings (EEG, ECG, and respiration), derive body–brain measures, estimate transfer entropy, and perform the statistical analyses reported in the study of respiratory synchronization and body–brain dynamics in schizophrenia spectrum disorders.
 
+Associated manuscript:
+"Predicting Others Through the Body: Respiratory Synchronization and Body–Brain Dynamics in Schizophrenia"
+
 ## Related Resources
 
 - **Data repository (Zenodo):** https://doi.org/10.xxxx/zenodo.xxxxxxx
