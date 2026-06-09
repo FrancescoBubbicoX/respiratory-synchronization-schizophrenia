@@ -9,7 +9,7 @@ Associated manuscript:
 
 ## Related Resources
 
-- **Data repository (Zenodo):** https://doi.org/10.xxxx/zenodo.xxxxxxx
+- **Data repository (Zenodo):** https://doi.org/10.5281/zenodo.20606074
 - **Project and preregistration (OSF):** https://doi.org/10.17605/OSF.IO/KQ6YN
 
 ## Repository Structure
