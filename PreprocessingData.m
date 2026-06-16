@@ -443,7 +443,7 @@ for k = 1:numel(files)
             elseif alignLag < 0
                 % BIOPAC is early: shift it forward (delay by |alignLag|)
                 d = -alignLag;
-                nCopy = min( - d, numel(clean_ecg));
+                nCopy = min(N_eeg - d, numel(clean_ecg));
                 if nCopy > 0
                     ecg_bp_aligned((1:nCopy) + d)  = clean_ecg(1:nCopy);
                     resp_bp_aligned((1:nCopy) + d) = clean_resp(1:nCopy);
