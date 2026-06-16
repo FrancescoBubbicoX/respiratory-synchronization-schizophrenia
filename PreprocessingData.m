@@ -423,7 +423,7 @@ for k = 1:numel(files)
                 autoMode = false;
             end
 
-            N_eeg      = numel(ecg_eeg);
+            N_eeg = size(data_all.trial{1}, 2);
             clean_ecg  = data_biopac.ecg_clean(:);
             clean_resp = data_biopac.resp_clean(:);
 
@@ -443,7 +443,7 @@ for k = 1:numel(files)
             elseif alignLag < 0
                 % BIOPAC is early: shift it forward (delay by |alignLag|)
                 d = -alignLag;
-                nCopy = min(N_eeg - d, numel(clean_ecg));
+                nCopy = min( - d, numel(clean_ecg));
                 if nCopy > 0
                     ecg_bp_aligned((1:nCopy) + d)  = clean_ecg(1:nCopy);
                     resp_bp_aligned((1:nCopy) + d) = clean_resp(1:nCopy);
