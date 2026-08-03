@@ -91,3 +91,14 @@ Original source:
 https://www.mathworks.com/matlabcentral/fileexchange/72729-topographic-eeg-meg-plot
 
 The original copyright notice and license are retained in the source file and in the accompanying license document.
+
+### pan_tompkin.m
+
+Copyright (c) 2018 Hooman Sedghamiz
+
+Distributed under the MIT License.
+
+Original source:  
+https://www.mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector
+
+The original copyright notice and licence are retained in the source file and in the accompanying licence document.
