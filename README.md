@@ -86,6 +86,7 @@ This repository includes the third-party MATLAB function:
 Copyright (c) 2020, Víctor Martínez-Cagigal
 
 Distributed under the BSD 3-Clause License.
+
 Licence text: `LICENSES/plot_topography.txt`
 
 Original source:
@@ -98,6 +99,7 @@ The original copyright notice and license are retained in the source file and in
 Copyright (c) 2018 Hooman Sedghamiz
 
 Distributed under the MIT License.
+
 Licence text: `LICENSES/pan_tompkin.txt`
 
 
