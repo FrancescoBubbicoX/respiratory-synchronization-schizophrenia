@@ -86,6 +86,7 @@ This repository includes the third-party MATLAB function:
 Copyright (c) 2020, Víctor Martínez-Cagigal
 
 Distributed under the BSD 3-Clause License.
+Licence text: `LICENSES/plot_topography.txt`
 
 Original source:
 https://www.mathworks.com/matlabcentral/fileexchange/72729-topographic-eeg-meg-plot
@@ -97,8 +98,12 @@ The original copyright notice and license are retained in the source file and in
 Copyright (c) 2018 Hooman Sedghamiz
 
 Distributed under the MIT License.
+Licence text: `LICENSES/pan_tompkin.txt`
+
 
 Original source:  
 https://www.mathworks.com/matlabcentral/fileexchange/45840-complete-pan-tompkins-implementation-ecg-qrs-detector
 
 The original copyright notice and licence are retained in the source file and in the accompanying licence document.
+
+
