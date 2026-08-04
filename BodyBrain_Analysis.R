@@ -56,6 +56,8 @@ data_respSync_hplp <- data_respSync %>%
 data_respSync_heapat <- data_respSync %>%
   filter(condition %in% c("hea", "pat"))
 
+# Set contrast 
+options(contrasts = c("contr.sum", "contr.poly"))
 
 ###############################
 #  Step 1:                    #   
